@@ -10,6 +10,9 @@ function App() {
         <p>
           Bienvenidos al Webinar de Git + GitHub
         </p>
+        <p>
+          Universidad Atlantida Argentina
+        </p>
       </header>
     </div>
   );
