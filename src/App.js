@@ -12,7 +12,7 @@ function App() {
           Espero que lo hayan disfrutado
         </p>
         <p>
-          UAA
+          UAA 2020
         </p>
       </header>
     </div>
