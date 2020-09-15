@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Bienvenidos al Webinar de Git + GitHub
+          Espero que lo hayan disfrutado
         </p>
         <p>
           UAA
